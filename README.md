@@ -10,7 +10,7 @@ A simple Java program that calculates the number of hours in a day using an inte
   - Installation
 - Usage
 - Contributing
-- License
+- Ackmowledgement
 - Contact
 
 ## About the Project
@@ -40,14 +40,15 @@ Navigate to the project directory:
 cd DayHoursCalculator
 
 Open the project in your preferred IDE.
+
 Usage
 To run the program, follow these steps:
 
 Compile the Java files:
-javac Timecalculator.java
+javac Main.java
 
 run the Java file:
-java Timecalculator
+java Main
 
 You should see the following output:
 
@@ -58,15 +59,10 @@ Contributions are what make the open-source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag “enhancement”. Don’t forget to give the project a star! Thanks again!
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
+Acknowledgement:
+Flexisaf Internship.
 
 Contact
 Favour Akintoye-dave.400g@gmail.com
 
-Project Link: https://github.com/your_username/DayHoursCalculator
+Project Link: 
