@@ -63,6 +63,7 @@ Acknowledgement:
 Flexisaf Internship.
 
 Contact
-Favour Akintoye-dave.400g@gmail.com
+Favour Akintoye 
+Email: dave.400g@gmail.com
 
-Project Link: 
+Project Link: https://github.com/Justreadin/Daycalulator.git
